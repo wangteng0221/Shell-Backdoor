@@ -1,8 +1,6 @@
 # Shell-backdoor
-List Best PHP Webshell Backdoor by NaughtySec 
+List Best PHP Webshell Backdoor by uph88
 NO Logger !!!!
 
-Blog: https://www.naughtysec.online
-YT: Naughtysec
-
-![alt text](https://avatars.githubusercontent.com/u/76396461)
+Blog: https://temeculaelectricianpros.com/
+Landing Page: uph88
