@@ -1,3 +1,8 @@
-# Shell-Backdoor
-Shell Backdoor for deface
-Digunakan hanya untuk pekerjaan mencari sisi celah dan bertugas untuk melaporkan atau reporting kepada pemilik website
+# Shell-backdoor
+List Best PHP Webshell Backdoor by NaughtySec 
+NO Logger !!!!
+
+Blog: https://www.naughtysec.online
+YT: Naughtysec
+
+![alt text](https://avatars.githubusercontent.com/u/76396461)
